@@ -1,4 +1,5 @@
 📚 Library Management System (LMS)
+
 A simple console-based Library Management System written in Java. This project was built as part of a Java lab assignment to practice Object-Oriented Programming (OOP) concepts, collections (ArrayList), and basic CRUD-style operations.
 
 ✨ Features
